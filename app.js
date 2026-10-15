@@ -84,7 +84,7 @@ while (i < tweets.length) {
     i++;
 }
 
-// FOR LOOP - Display tweets from users under 18
+//  Display tweets from users under 18
 
 console.log("Tweets from users under 18:");
 
